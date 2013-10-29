@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+	<file>resources/js/jquery-1.3.2.min.js</file>
+	<file>resources/js/json2.js</file>
+	<file>resources/js/CuteWRT.js</file>	
+        
+	<file>resources/html/index.html</file>	
+	<file>resources/js/example.js</file>
+    </qresource>
+</RCC>
+
+
